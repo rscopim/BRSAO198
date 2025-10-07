@@ -1,0 +1,28 @@
+1 - Crie uma função que receba uma lista de notas (valores float) e calcule a média. O programa principal deverá solicitar ao usuário o nome de um aluno e suas 3 notas, e então utilizar a função para calcular e exibir a média com duas casas decimais.
+
+2 - Crie uma função que calcule a gorjeta a ser deixada em um restaurante, baseada no valor total da conta e na porcentagem de gorjeta desejada.
+A função deve receber dois parâmetros:
+valor_conta (float): O valor total da conta
+porcentagem_gorjeta (float): A porcentagem da gorjeta (por exemplo, 10 para 10%)
+
+3 - Crie uma função que calcule a idade de uma pessoa em dias, com base no ano de nascimento informado pelo usuário.
+O programa deve considerar o ano atual como base para o cálculo.
+Use try/except para tratar erros de entrada e valide que o ano não pode ser maior que o ano atual.
+
+4 - Crie uma função que recebe dois números e retorna a soma. O programa deve pedir os números ao usuário, chamar a função e exibir o resultado.
+
+5 - Crie um programa com uma função que cadastre alunos e suas respectivas notas.
+O sistema deve:
+Solicitar o nome do aluno.
+Solicitar 3 notas válidas (entre 0 e 10).
+Armazenar os dados em um dicionário, onde a chave é o nome e o valor é uma lista de notas.
+Permitir o cadastro de vários alunos até que o usuário digite "fim".
+Exibir ao final:
+A lista de alunos e suas médias.
+O aluno com a maior média.
+Use def para as funcionalidades e try/except para tratar entradas inválidas.
+
+6 - Crie um programa que peça ao usuário o nome e a idade. Em seguida, exiba uma mensagem personalizada com o nome e a idade da pessoa. Toda a lógica deve estar dentro de uma função main(), e o programa deve ser executado com if __name__ == "__main__":.
+
+7 - Crie um programa que permita ao usuário montar uma lista de compras. O usuário poderá adicionar itens até digitar "fim". Ao final, o programa exibirá todos os itens da lista. O programa deve estar estruturado com uma função main() e ser executado com if __name__ == "__main__":.
+
